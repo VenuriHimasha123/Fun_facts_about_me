@@ -16,4 +16,5 @@ This is a simple JavaScript-based fun fact generator that displays a random fact
 1. Clone this repository:
    ```bash
    git clone https://github.com/VenuriHimasha123/Fun_facts_about_me/edit/main
-![Index Page](https://raw.githubusercontent.com/your-username/repository-name/main/index.png)
+![Index Page](
+https://github.com/VenuriHimasha123/Fun_facts_about_me/blob/main/Screenshot_20250227_024031_Chrome.jpg)
